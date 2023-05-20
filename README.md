@@ -43,21 +43,3 @@ web3，requests
   网络连接不上blocknative，尝试更换alchemy试试
 
 
-# 已打包的exe
-自行打包或者找朋友帮忙pyinstaller打包吧
-
-实在要用exe的进discord下载吧
-
-直接提示错误的，应该是配置文件错误
-
-# 推特
-https://twitter.com/fooyao158
-
-# Discord
-
-https://discord.gg/mgrcUfPEF9
-
-# 打赏
-
-fooyao.eth
-
